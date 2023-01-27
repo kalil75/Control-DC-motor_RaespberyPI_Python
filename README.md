@@ -7,7 +7,7 @@ Faire un programme en python qui fera varier le sens de rotation et la vitesse d
 
 
 
-# Gestion de la vitesse de moteur
+# Gestion de la vitesse de moteur PWM
 
 ![Picture2](https://user-images.githubusercontent.com/40873969/215102540-a5997346-d63b-49d2-aa3e-80f549d53bc6.png)
 
